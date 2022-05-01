@@ -19,7 +19,7 @@ export default {
       arrCharts:[
         {path:'/lineChart',title:'中债运营数据概览'},
         {path:'/clearSet',title:'中债数据可视化平台'},
-        {path:'/lineChart',title:'图表3'},
+        {path:'/itOpration',title:'IT运营'},
       ]
     }
   },
