@@ -1,0 +1,10 @@
+@viewportWidth: 750px;
+
+/*function*/
+// pixels to vw
+// .px2vw(@name, @px) {
+//   @{name}: @px*100vw/750px;
+// }
+.px2vw($px) {
+        return ($px / 375) * 100vw;
+    }
